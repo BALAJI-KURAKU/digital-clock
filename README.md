@@ -16,7 +16,7 @@ Why settle for boring numbers when you can have glowing, animated circles that d
 ---
 
 ## 📂 Project Structure
-```plaintext
+
 digital-clock/
 
 │
