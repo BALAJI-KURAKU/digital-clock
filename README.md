@@ -34,7 +34,7 @@ digital-clock/
 ## 🛠️ How to Run
 
 - Clone this repository
-  - git clone https://github.com/your-username/digital-clock.git
+  - git clone https://github.com/BALAJI-KURAKU/digital-clock.git
 
 - Open index.html in your browser
   - That’s it. Seriously. No servers, no installs.
