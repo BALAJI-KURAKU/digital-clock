@@ -33,13 +33,12 @@ digital-clock/
 
 ## 🛠️ How to Run
 
-1. Clone this repository
-- git clone https://github.com/your-username/digital-clock.git
+- Clone this repository
+  - git clone https://github.com/your-username/digital-clock.git
 
-2. Open index.html in your browser
-
-- That’s it. Seriously. No servers, no installs.
-- Just pure HTML, CSS, and JavaScript goodness.
+- Open index.html in your browser
+  - That’s it. Seriously. No servers, no installs.
+  - Just pure HTML, CSS, and JavaScript goodness.
 
 ---
 ## 📸 Preview
