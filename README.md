@@ -34,14 +34,12 @@ digital-clock/
 ## 🛠️ How to Run
 
 1. Clone this repository
-   ```bash
-   git clone https://github.com/your-username/digital-clock.git
-
+- git clone https://github.com/your-username/digital-clock.git
 
 2. Open index.html in your browser
-   ```bash
-   That’s it. Seriously. No servers, no installs.
-   Just pure HTML, CSS, and JavaScript goodness.
+
+- That’s it. Seriously. No servers, no installs.
+- Just pure HTML, CSS, and JavaScript goodness.
 
 ---
 ## 📸 Preview
@@ -54,10 +52,10 @@ Here’s what you’ll see when it’s running (minus your boss walking by 👀)
 1. The JavaScript fetches the current time every second
 
 2. It updates: 
-   ```bash
-   Numbers → Hours, Minutes, Seconds
-   Circle progress bars using stroke-dashoffset
-   Orbit dots with transform: rotate(...)
+
+- Numbers → Hours, Minutes, Seconds
+- Circle progress bars using stroke-dashoffset
+- Orbit dots with transform: rotate(...)
 
 3. CSS variables (--color) make it easy to theme the rings 🔥
 
@@ -70,13 +68,10 @@ it might as well look awesome while doing it. ❤️
 ---
 ## 💡 Ideas to Improve
 
-Add dark/light mode toggle 🌗
-
-Make it clickable to change time zones 🌍
-
-Let users pick their own colors 🎨
-
-Add background animations to match the time of day
+- Add dark/light mode toggle 🌗
+- Make it clickable to change time zones 🌍
+- Let users pick their own colors 🎨
+- Add background animations to match the time of day
 
 ---
 ## 📜 License
