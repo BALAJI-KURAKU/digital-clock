@@ -30,6 +30,7 @@ digital-clock/
 └── README.md     # You're reading it right now!
 
 ---
+
 ## 🛠️ How to Run
 
 1. Clone this repository
