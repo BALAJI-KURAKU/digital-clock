@@ -34,7 +34,7 @@ digital-clock/
 ## 🛠️ How to Run
 
 1. Clone this repository
-
+   ```bash
 git clone https://github.com/your-username/digital-clock.git
 
 
