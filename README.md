@@ -21,13 +21,13 @@ digital-clock/
 
 │
 
-├── index.html    # The backbone – where structure lives
+├── README.md     # You're reading it right now!
 
-├── styles.css    # The style guru – makes it look awesome
+├── index.html    # The backbone – where structure lives
 
 ├── script.js     # The brain – keeps it ticking
 
-└── README.md     # You're reading it right now!
+└── styles.css    # The style guru – makes it look awesome
 
 ---
 
@@ -44,19 +44,20 @@ digital-clock/
 ## 📸 Preview
 
 Here’s what you’ll see when it’s running (minus your boss walking by 👀):
+![digital_clock](https://github.com/user-attachments/assets/679e8ec8-8955-41fd-bfe3-43c6605e6871)
+
 
 ---
 ## 🤓 How It Works
 
-1. The JavaScript fetches the current time every second
+- The JavaScript fetches the current time every second
 
-2. It updates: 
+- It updates: 
+  - Numbers → Hours, Minutes, Seconds
+  - Circle progress bars using stroke-dashoffset
+  - Orbit dots with transform: rotate(...)
 
-- Numbers → Hours, Minutes, Seconds
-- Circle progress bars using stroke-dashoffset
-- Orbit dots with transform: rotate(...)
-
-3. CSS variables (--color) make it easy to theme the rings 🔥
+- CSS variables (--color) make it easy to theme the rings 🔥
 
 ---
 ## 🎯 Why I Built This
